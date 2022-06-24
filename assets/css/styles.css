@@ -66,3 +66,10 @@
     font-weight: bold;
 }
 
+body{  
+    color: white;
+    background-image: url('../../assets/img/gradient.png');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
