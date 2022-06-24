@@ -22,9 +22,10 @@
 }
 
 .div-meio{
-    top: 30px;
+    top: 50px;
     height: 600px;
     width: 100%;
+    z-index: 1;
 }
 
 .img-trovao{
@@ -73,3 +74,16 @@ body{
     background-size: cover;
 }
 
+.backdrop-baixo-secao-principal{
+    bottom: 0px;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to top, black, transparent);
+}
+
+.backdrop-cima-secao-conteudo{
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, black, transparent);
+}
