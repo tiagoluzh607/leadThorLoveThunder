@@ -13,3 +13,10 @@
     max-width: 530px;
     min-width: 470px;
 }
+
+.img-jane{
+    width: 100%;
+    min-width: 400px;
+    max-width: 580px;
+    height: 600px;
+}
