@@ -35,5 +35,15 @@
 
 .img-thor{
     width: 100%;
-    max-width: 500px;
+    max-width: 680px;
+}
+
+.img-machado{
+    width: 100%;
+    max-width: 680px;
+}
+
+.div-img-machado{
+    top: 0px;
+    left: 0px;
 }
