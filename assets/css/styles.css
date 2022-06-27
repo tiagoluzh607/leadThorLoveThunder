@@ -90,7 +90,7 @@ body{
 }
 
 .div-ingresso{
-    margin-top: 180px;
+    margin-top: 400px;
 }
 
 .max-width{
@@ -114,5 +114,12 @@ body{
     font-weight: 600;
     border-radius: 30px;
     text-transform: uppercase;
+}
+
+.div-relampago{
+    background-image: url('../../assets/img/secao-principal/trovao.png');
+    height: 0px;
+    width: 100%;
+    z-index: 9999;
 }
 
