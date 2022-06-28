@@ -33,6 +33,17 @@
     }
 }
 
+@media (max-width: 500px) {
+    @keyframes trovao-aumentando{
+        0% {
+            transform: rotate(0deg) scale(0.01);
+        }
+        100% {
+            transform: rotate(0deg) scale(1) translate(0px,-30px);
+        }
+    }
+}
+
 .brilhando{
     animation: brilhando 10s ease-in-out infinite alternate;
 }
