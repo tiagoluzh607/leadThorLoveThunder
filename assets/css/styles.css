@@ -19,4 +19,15 @@
     height: 600px;
     min-width: 500px;
     max-width: 580px;
-} 
+}
+
+.div-meio{
+    height: 600px;
+    width: 100%;
+}
+
+.img-trovao{
+    width: 100%;
+    max-height: 600px;
+    mix-blend-mode: screen;
+}
