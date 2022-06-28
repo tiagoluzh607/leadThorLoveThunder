@@ -1,0 +1,13 @@
+.navbar-personalizado{
+    background-image: linear-gradient(to bottom, black 10%, transparent);
+    font-size: 110%;  
+    min-height: 110px;
+    padding-top: 17px;  
+}
+
+.navbar-personalizado a{
+    padding-top: 0px;
+    margin-right: 30px;
+    color: white;
+    font-weight: bold;
+}
