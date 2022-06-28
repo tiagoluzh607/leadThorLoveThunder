@@ -52,6 +52,7 @@
 .conteudo{
     height: 1500px;
     color: white;
+    padding: 20px;
 }
 
 .navbar-personalizado{
@@ -103,6 +104,7 @@ body{
 
 .img-titulo-filme{
     max-width: 600px;
+    width: 100%;
 }
 
 .btn-theme{
@@ -121,5 +123,6 @@ body{
     height: 0px;
     width: 100%;
     z-index: 9999;
+
 }
 
