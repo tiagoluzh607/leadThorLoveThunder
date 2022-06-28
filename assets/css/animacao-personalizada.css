@@ -18,11 +18,14 @@
 }
 
 .trovao-aumentando{
-    animation: trovao-aumentando 10s ease-in-out infinite alternate;
+    animation: trovao-aumentando 10s steps(5) infinite;
 }
 
 @keyframes trovao-aumentando{
-    0% {
+    0%{
+        transform: rotate(0deg) scale(0.01);
+    }
+    50% {
         transform: rotate(0deg) scale(0.01);
     }
     100% {
