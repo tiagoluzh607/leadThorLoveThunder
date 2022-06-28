@@ -64,3 +64,22 @@
         transform: translate(0px, -10px);
     }
 }
+
+.desfocando{
+    animation: desfocando 10s ease-in-out infinite alternate;
+}
+
+@keyframes desfocando{
+    0% {
+        filter: blur(0px);
+    }
+    20% {
+        filter: blur(0px);
+    }
+    70% {
+        filter: blur(20px);
+    }
+    100%{
+        filter: blur(1000px);
+    }
+}
