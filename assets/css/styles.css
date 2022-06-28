@@ -22,6 +22,7 @@
 }
 
 .div-meio{
+    top: 80px;
     height: 600px;
     width: 100%;
 }
@@ -30,4 +31,9 @@
     width: 100%;
     max-height: 600px;
     mix-blend-mode: screen;
+}
+
+.img-thor{
+    width: 100%;
+    max-width: 680px;
 }
