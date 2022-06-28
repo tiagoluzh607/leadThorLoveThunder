@@ -92,7 +92,7 @@
     }
 }
 
-
+/*
 .relampago{
     animation: relampago 10s steps(1) infinite alternate;
 }
@@ -120,3 +120,4 @@
     96%{height: 1000px; background-position-y: 0px;background-repeat: repeat-y;background-size: cover;}
     100%{ height: 0px;}
 }
+*/
